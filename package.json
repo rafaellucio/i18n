@@ -1,0 +1,23 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "description": "Pocs with i18n libraries",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "lerna bootstrap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellucio/i18n.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaellucio/i18n/issues"
+  },
+  "homepage": "https://github.com/rafaellucio/i18n#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
