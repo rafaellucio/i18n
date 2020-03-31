@@ -4571,6 +4571,11 @@ i18next-browser-languagedetector@^3.0.3:
   resolved "https://registry.yarnpkg.com/i18next-browser-languagedetector/-/i18next-browser-languagedetector-3.0.3.tgz#879ebe421685c70cc5cfa96191364a35ea7da742"
   integrity sha512-1YuAogyQap0J6N4kM+6gAjZ6T7QWrp3xZCmSs0QedkNmgAKhj7FiQlCviHKl3IwbM6zJNgft4D7UDPWb1dTCMQ==
 
+i18next-multiload-backend-adapter@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/i18next-multiload-backend-adapter/-/i18next-multiload-backend-adapter-1.0.0.tgz#3cc3ea102814273bb9059a317d04a3b6e4316121"
+  integrity sha512-rZd/Qmr7KkGktVgJa78GPLXEnd51OyB2I9qmbI/mXKPm3MWbXwplIApqmZgxkPC9ce+b8Jnk227qX62W9SaLPQ==
+
 i18next-xhr-backend@^3.1.2:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/i18next-xhr-backend/-/i18next-xhr-backend-3.1.2.tgz#f9da86c81981ac245325cb2dbfd4232a5b183676"
